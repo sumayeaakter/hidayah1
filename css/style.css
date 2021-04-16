@@ -1,0 +1,257 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+header{
+width: 100%;
+background:#242424;
+}
+.header_content{overflow: hidden;}
+.logo{
+
+width: 20%;
+
+float: left;
+}
+.logo img{
+
+margin-left: 70px;
+}
+nav{
+
+width: 30%;
+
+float: right;
+
+display: inline;
+
+overflow: hidden;
+
+padding-top: 8px;
+
+text-align-last: justify;
+
+margin-right: 87px;
+}
+nav ul{
+
+list-style: none;
+
+display: inline;
+}
+nav ul li{
+  
+color: #fff;
+  
+display: inline;
+  
+text-transform: capitalize;
+  
+font-size: 18px;
+}
+nav ul li:first-child{
+  background: #428BCA;
+}
+nav ul li:hover{
+  background-color: #428BCA;
+}
+.content{
+
+width: 90%;
+
+margin-left: 5%;
+}
+.picture{
+}
+.picture img{
+  
+width: 100%;
+}
+.next_content{margin-left: 5%;margin-right: 5%;overflow: hidden;}
+.content_left{
+
+text-align: center;
+
+width: 30%;
+
+float: left;
+
+padding: 10px 3px;
+}
+.content_left img{
+  
+width: 70%;
+  
+height: 90px;
+}
+.content_left h3{
+  
+text-align: center;
+  
+color: #656565;
+  
+margin-bottom: 20px;
+}
+.content_left p{
+  
+text-align: justify;
+  
+color: #656565;
+}
+.content_middel{
+  text-align: center;
+  width: 30%;
+  float: left;
+  padding: 10px 3px;
+  margin-left: 5%;
+}
+.content_middel img{
+  width: 70%;
+  
+height: 90px;
+  
+}
+.content_middel h3{
+  text-align: center;
+  color: #656565;
+  margin-bottom: 20px;
+}
+.content_middel p{
+  text-align: justify;
+  
+color: #656565;
+  
+}
+.content_right{
+  text-align: center;
+  width: 30%;
+  float: right;
+  padding: 10px 3px;
+}
+.content_right img{
+  width: 70%;
+  
+height: 90px;
+  
+}
+.content_right h3{
+  text-align: center;
+  color: #656565;
+  margin-bottom: 20px;
+}
+.content_right p{
+  text-align: justify;
+  
+color: #656565;
+  
+}
+.lactus{
+
+width: 90%;
+
+margin-left: 5%;
+
+text-align: center;
+
+overflow: hidden;
+
+margin-top: 73px;
+}
+.c1 {
+
+width: 48%;
+
+float: left;
+}
+.c1 h3 {
+  
+color: #656565;
+}
+.c1 p{
+  
+color: #656565;
+}
+.c2 {
+
+width: 48%;
+
+float: right;
+}
+.c2 h3 {
+  
+color: #656565;
+}
+.c2 p{
+  
+color: #656565;
+}
+.outline{
+
+width: 90%;
+
+margin-left: 3%;
+
+overflow: hidden;
+
+margin-top: 60px;
+}
+.ouline_one{
+
+width: 45%;
+
+float: left;
+
+text-align: center;
+
+margin-left: 100px;
+}
+.ouline_one img{
+
+width: 480px;
+
+height: 240px;
+}
+.outline_two{
+
+float: right;
+
+width: 45%;
+
+text-align: center;
+
+margin-right: 21px;
+}
+.outline_two img{
+
+width: 480px;
+
+height: 242px;
+}
+footer{
+  background: #242424;
+  text-align: center;
+  overflow: hidden;
+  padding: 1px;
+  width: 100%;
+  margin-top: 73px;
+}
+.footer img{
+
+width: 100px;
+}
+.footer p{
+    text-transform: uppercase;
+}
+.text{
+
+display: inline;
+}
+.text h3{
+
+display: inline;
+}
+.text p{
+
+display: inherit;
+}
